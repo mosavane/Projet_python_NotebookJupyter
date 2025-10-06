@@ -1,10 +1,11 @@
-# 📌 Projet Data Science : Prédiction du Départ d’un Employé (Churn RH)
+# Projet Data Science : Prédiction du Départ d’un Employé (Churn RH)
 
-## 🧠 Contexte
+## Contexte
 
-Dans un contexte de gestion des clients, la rétention des meilleurs profils est un enjeu majeur. Comprendre les raisons qui poussent un client à quitter le navire permet de mettre en place des actions préventives.
+Dans un contexte de gestion des clients, la rétention des meilleurs profils est un enjeu majeur. 
+Comprendre les raisons qui poussent un client à quitter le navire permet de mettre en place des actions préventives.
 
-Ce projet a pour objectif de construire un modèle de prédiction permettant d’identifier si un employé est susceptible de quitter l’entreprise, à partir de données historiques.
+Ce projet a pour objectif de construire un modèle de prédiction permettant d’identifier si un employé est susceptible de quitter le groupe, à partir de données historiques.
 
 ---
 
@@ -12,22 +13,22 @@ Ce projet a pour objectif de construire un modèle de prédiction permettant d�
 
 - Analyser les données pour mieux comprendre les comportements de départ.
 - Nettoyer et préparer les données pour l'entraînement de modèles prédictifs.
-- Tester plusieurs algorithmes de machine learning pour prédire le départ d’un employé.
+- Tester plusieurs algorithmes de machine learning pour prédire le départ d’un clients.
 - Évaluer et comparer les performances des modèles.
-- Déployer une application web interactive pour aider les RH à anticiper les risques de churn.
+- Déployer une application web interactive pour aider la direction à anticiper les risques de churn.
 
 ---
 
-## 🛠️ Étapes du Projet
+## Étapes du Projet
 
-### 🔍 1. Exploration des données
+### 1. Exploration des données
 - Gestion des valeurs manquantes
 - Analyse univariée (variables catégorielles et numériques)
 - Analyse bi-variée (corrélations, dépendances)
 - Création de nouvelles variables
 - Tests statistiques (T-test)
 
-### 🤖 2. Modélisation
+### 2. Modélisation
 - Modèles testés :
   - Logistic Regression
   - Random Forest
@@ -39,12 +40,12 @@ Ce projet a pour objectif de construire un modèle de prédiction permettant d�
 - Sélection du meilleur modèle
 - Analyse des variables importantes (Feature Importance)
 
-### 📈 3. Visualisation
+### 3. Visualisation
 - Boxplots
 - Graphiques comparatifs
 - Matrice de confusion
 
-### 🌐 4. Application Web
+### 4. Application Web
 - Dashboard interactif avec Streamlit ou Dash
 - Visualisation des données
 - Prédictions en temps réel
@@ -52,7 +53,7 @@ Ce projet a pour objectif de construire un modèle de prédiction permettant d�
 
 ---
 
-## ✅ Technologies utilisées
+## Technologies utilisées
 
 - Python
 - Pandas, NumPy
@@ -62,9 +63,9 @@ Ce projet a pour objectif de construire un modèle de prédiction permettant d�
 - Power BI (visualisation interactive)
 ---
 
-## 📦 Résultat
+## ✅ Résultat
 
-Un outil interactif permettant aux responsables RH d’anticiper le départ potentiel d’un employé, basé sur des modèles de machine learning entraînés sur des données historiques.
+Un outil interactif permettant aux responsables d’anticiper le départ potentiel d’un client, basé sur des modèles de machine learning entraînés sur des données historiques.
 
 ---
 
